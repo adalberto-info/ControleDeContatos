@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\ASP_NET\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
         "projectPath": "C:\\ASP_NET\\ControleDeContatos\\ControleDeContatos.csproj",
-        "packagesPath": "C:\\Users\\ADALBERTO\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
         "outputPath": "C:\\ASP_NET\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADALBERTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
